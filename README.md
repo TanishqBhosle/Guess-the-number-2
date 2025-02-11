@@ -1,2 +1,2 @@
 # Guess-the-number-2
-Live server - https://bejewelled-narwhal-ffdeea.netlify.app/
+Live server - https://guess-the-number-single-multi-player.netlify.app/
