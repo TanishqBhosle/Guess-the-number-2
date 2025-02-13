@@ -29,27 +29,33 @@ Guess the Number is a fun and interactive web-based game where players try to gu
 1. Select Game Mode:
    
    a) Choose between **Single Player** or **Multiplayer** mode.
+   
    b) In multiplayer mode, enter the names of both players.
 
 3. Guess the Number:
    
    a) Enter your guess in the input field and click "Guess!".
+   
    b) The game will tell you if your guess is too high or too low.
 
 5. Win or Lose:
    
    a) If you guess the correct number, confetti will celebrate your victory!
+   
    b) If you run out of attempts, a "Boom" animation will play, and the correct number will be revealed.
 
 7. Restart or Go Back:
    
    a) Click "Restart" to play again with a new random number.
+   
    b) Click "Back" to return to the mode selection screen.
 
 ## File Structure
 
 a) index.html: The main HTML file containing the structure of the game.
+
 b) index.css: Contains the CSS styles for the game, including animations and responsive design.
+
 c) index.js: Handles the game logic, including number generation, input validation, and dynamic feedback.
 
 ## Example of Gameplay
@@ -57,11 +63,15 @@ c) index.js: Handles the game logic, including number generation, input validati
 1) Single Player:
 
 a) Player 1 guesses the number within 10 attempts.
+
 b) If the guess is correct, confetti celebrates the win.
+
 c) If the player runs out of attempts, the correct number is revealed with a "Boom" animation.
 
 2) Multiplayer:
    
   a) Player 1 and Player 2 take turns guessing the number.
+  
   b) The game alternates between players after each incorrect guess.
+  
   c) The first player to guess the correct number wins!
